@@ -1,4 +1,4 @@
-# Hello, I'm Cynthia <img src="https://raw.githubusercontent.com/hbbc1/hbbc1/master/wave.gif" width="30px">
+# Hello, I'm Cynthia 
 
 
 ### Arabic to English Translator and Summarizer
